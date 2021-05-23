@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    [
+      "module:@niefeng/babel-console-clear",
+      { "include": ["log", "error", "warn"] }
+    ]
+  ]
+}

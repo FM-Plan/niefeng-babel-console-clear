@@ -1,0 +1,14 @@
+{
+  "name": "@niefeng/babel-console-clear",
+  "version": "0.0.2",
+  "main": "plugin.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel index.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@niefeng/babel-console-clear": "^0.0.2"
+  }
+}
