@@ -1,4 +1,4 @@
-# niefeng-babel-console-clear
+# @niefeng/babel-console-clear
 
 ## Install
 ```bash
